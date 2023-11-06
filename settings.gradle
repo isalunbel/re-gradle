@@ -1,0 +1,6 @@
+rootProject.name = 're-gradle'
+
+include 'db'
+include 'service'
+include 'api'
+
